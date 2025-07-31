@@ -1,0 +1,50 @@
+ADANIENT,Capital Goods
+ADANIPORTS,Services
+APOLLOHOSP,Healthcare
+ASIANPAINT,Consumer Discretionary
+AXISBANK,Financials
+BAJAJ-AUTO,Automobile
+BAJAJFINSV,Financials
+BAJFINANCE,Financials
+BEL,Capital Goods
+BHARTIARTL,Telecommunication
+BPCL,Oil & Gas
+BRITANNIA,Fast Moving Consumer Goods
+CIPLA,Healthcare
+COALINDIA,Metals & Mining
+DRREDDY,Healthcare
+EICHERMOT,Automobile
+GRASIM,Cement & Cement Products
+HCLTECH,Information Technology
+HDFCBANK,Financials
+HDFCLIFE,Financials
+HEROMOTOCO,Automobile
+HINDALCO,Metals & Mining
+HINDUNILVR,Fast Moving Consumer Goods
+ICICIBANK,Financials
+INDUSINDBK,Financials
+INFY,Information Technology
+ITC,Fast Moving Consumer Goods
+JSWSTEEL,Metals & Mining
+KOTAKBANK,Financials
+LT,Capital Goods
+M&M,Automobile
+MARUTI,Automobile
+NESTLEIND,Fast Moving Consumer Goods
+NTPC,Power
+ONGC,Oil & Gas
+POWERGRID,Power
+RELIANCE,Oil & Gas
+SBILIFE,Financials
+SBIN,Financials
+SHRIRAMFIN,Financials
+SUNPHARMA,Healthcare
+TATACONSUM,Fast Moving Consumer Goods
+TATAMOTORS,Automobile
+TATASTEEL,Metals & Mining
+TCS,Information Technology
+TECHM,Information Technology
+TITAN,Consumer Discretionary
+TRENT,Retail
+ULTRACEMCO,Cement & Cement Products
+WIPRO,Information Technology
