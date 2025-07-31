@@ -184,6 +184,7 @@ You can create dynamic and interactive dashboards in Power BI by connecting dire
 8.  Click **"Load"**. Power BI will import the data into its model.
 9.  You can now start creating visualizations, setting up relationships between tables (if you load `sector_data` into Power BI as well), and building your Power BI dashboard based on the cleaned data from your SQL database.
 
-## 🎥 Demo Video
+## 🎥 Demo Video and PowerBI output
 
-  * LinkedIn Demo Video Link:
+  * LinkedIn Demo Video Link: https://www.linkedin.com/posts/monica-umamageswaran_dataanalytics-python-streamlit-activity-7356656662822182913-fqIe?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE_7PqYBCyvYmCOnir7XtTdIJhnL6JtNqSA
+  * PowerBI output: 2 images had been added to this project repo in the main branch itself.
